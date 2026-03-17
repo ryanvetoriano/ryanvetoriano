@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ryan Vetoriano
 
-<!--
-**ryanvetoriano/ryanvetoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Student | FIAP
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com interesse em desenvolvimento front-end, back-end e full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Java • C# • .NET • React • TypeScript • JavaScript • SQL
+
+## Projects
+
+### Saúde+
+Plataforma web para facilitar o acesso de usuários com baixo letramento digital ao portal do Hospital das Clínicas.
+
+Tecnologias: Java, React, TypeScript, REST API.
+
+### Central do Saber
+API em .NET para gerenciamento de conteúdos como livros, mangás, HQs e revistas.
+
+Tecnologias: C#, .NET, DDD.
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/ryanvetoriano
