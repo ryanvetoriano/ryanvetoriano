@@ -36,9 +36,7 @@ Atualmente estudando e desenvolvendo projetos com **Java, React, TypeScript e .N
 
 # GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvetoriano&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvetoriano&layout=compact&theme=tokyonight)
+![Ryan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ryanvetoriano&show_icons=true&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvetoriano&theme=tokyonight))
 
 ---
 
