@@ -15,7 +15,7 @@ O código destes projetos é da GEMM e fica em repositórios privados.
 **GEMM Creative Lab** — plataforma que o time de marketing usa para decidir quais criativos de mídia paga funcionam: biblioteca de anúncios, classificação, grupos comparáveis e diagnósticos automáticos. Integração com a API da Triple Whale (SQL sobre ClickHouse) com sincronização idempotente e registro de qualidade de dados, e regras analíticas escritas como funções puras cobertas por testes.  
 `React 19` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Docker` `Playwright`
 
-**GEMM Product Manager** — aplicativo desktop para preparar o catálogo e publicar no Shopify só depois de revisado. Catálogo local em SQLite, publicação em massa com retry, recomendação de produtos complementares e um broker que mantém as credenciais da loja fora do cliente.  
+**GEMM Product Manager** — aplicativo desktop para preparar o catálogo e publicar no Shopify só depois de revisado. Catálogo compartilhado entre computadores com controle de revisão, publicação em massa com retry, recomendação de produtos complementares e um broker que mantém as credenciais da loja fora do cliente.  
 `Electron` `React` `TypeScript` `Shopify Polaris` `SQLite` `Prisma` `Zod` `Docker`
 
 **Automação de dados** — geração da apresentação semanal de vendas e estoque a partir dos exports do Shopify.  
