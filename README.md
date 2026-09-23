@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** · Último semestre de Análise e Desenvolvimento de Sistemas na FIAP
 
-Sou o único responsável técnico por duas aplicações internas em uso diário na **GEMM**, marca de joias com e-commerce no Shopify e varejo físico: uma plataforma web de análise de criativos de mídia paga e um aplicativo desktop de gestão de catálogo. Trabalho do banco de dados à interface, com atenção a segurança de credenciais, testes automatizados e dados que não mentem.
+Sou o único responsável técnico por duas aplicações internas em uso diário na **GEMM**, marca de acessórios femininos com e-commerce no Shopify e varejo físico: uma plataforma web de análise de criativos de mídia paga e um aplicativo desktop de gestão de catálogo. Trabalho do banco de dados à interface, com atenção a segurança de credenciais, testes automatizados e dados que não mentem.
 
 Busco uma vaga **júnior** em desenvolvimento de software — Front-End, Back-End ou Full Stack.
 
