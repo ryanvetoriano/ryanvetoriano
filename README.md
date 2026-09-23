@@ -6,6 +6,8 @@ Sou o único responsável técnico por duas aplicações internas em uso diário
 
 Busco uma vaga **júnior** em desenvolvimento de software — Front-End, Back-End ou Full Stack.
 
+**Portfólio com estudos de caso: [ryanvetoriano.vercel.app](https://ryanvetoriano.vercel.app)**
+
 ---
 
 ## No trabalho
@@ -97,4 +99,4 @@ API de catálogo, avaliação e comentários de livros, mangás, HQs e revistas.
 
 ## Contato
 
-[LinkedIn](https://linkedin.com/in/ryanvetoriano) · vetorianosilva@gmail.com
+[Portfólio](https://ryanvetoriano.vercel.app) · [LinkedIn](https://linkedin.com/in/ryanvetoriano) · vetorianosilva@gmail.com
